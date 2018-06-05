@@ -23,7 +23,7 @@
 ```groovy
 dependencies {
     
-    compile 'com.github.weileng11:PhotoPicker-master:1.5.7'  (只是更改了单个点击图片显示,其他一样，将3.7换成4.2)
+    compile 'com.github.weileng11:PhotoPicker-master:1.6.1'  (只是更改了单个点击图片显示,其他一样，将3.7换成4.2)
     compile 'com.android.support:design:25.1.0'
     compile 'com.android.support:recyclerview-v7:25.1.0'
     compile "com.nineoldandroids:library:2.4.0"
